@@ -79,7 +79,7 @@ Please refer to the image below if you are having difficulties finding the const
 <h3 id="contributing">
 Contributing
 </h3>
-This project is open to contribution, but before pushing the modified or changed source code please leave an email to the author at singhtanvir525@gmail.com
+This project is open to contribution, but before pushing the modified or changed source code please leave an email to the author at twaseer@protonmail.com
 
 <h3 id="credits">
 Credits
